@@ -25,5 +25,5 @@
 
 ---
 ##LICENSE AND COPYRIGHT
--Copyright type&copy Alex Kagozi
+-Copyright &copy; Alex Kagozi
 
