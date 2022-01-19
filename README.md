@@ -24,6 +24,6 @@
 
 
 ---
-##LICENSE AND COPYRIGHT
+## LICENSE AND COPYRIGHT
 -Copyright &copy; Alex Kagozi
 
